@@ -1,0 +1,9 @@
+body {background-color: black;}
+h1 {color: white; font-family: sans-serif; size: 100px; text-align: center;}
+#logo {text-align: center;}
+table, th {margin: 0 auto;}
+th {margin: 0 auto; align-content: center; display: inline;}
+#table1, #table2 {content-align: center; display: inline;}
+th {text-align: center; color: white; font-family: sans-serif; font-size: 30px; display: inline;}
+td {color: white; font-family: sans-serif; font-size: 20px}
+#names {color: red;}
